@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zNij+/iNB5R5TITLSV38uGxuLudRVlt5qBf2P0B+qG5dNDTVmc3VM8K2RS2kl93LzDnXabUGhrXXBOHXMFI+VA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\SupplierApi\\src\\SupplierApi\\SupplierApi.Application\\SupplierApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

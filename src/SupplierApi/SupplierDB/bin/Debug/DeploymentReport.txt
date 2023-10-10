@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Cliente] (Table)
+       [dbo].[Transacao] (Table)
+       [dbo].[Usuario] (Table)
+       [dbo].[FK_Transacao_Cliente] (Foreign Key)
+       [dbo].[sprocCliente_Delete] (Procedure)
+       [dbo].[sprocCliente_GetAll] (Procedure)
+       [dbo].[sprocCliente_GetById] (Procedure)
+       [dbo].[sprocCliente_Insert] (Procedure)
+       [dbo].[sprocCliente_UpdateValorLimite] (Procedure)
+       [dbo].[sprocTransacao_Insert] (Procedure)
+       [dbo].[sprocUsuario_Delete] (Procedure)
+       [dbo].[sprocUsuario_Get] (Procedure)
+       [dbo].[sprocUsuario_GetAll] (Procedure)
+       [dbo].[sprocUsuario_Insert] (Procedure)
+       [dbo].[sprocUsuario_Update] (Procedure)
+
+** Supporting actions

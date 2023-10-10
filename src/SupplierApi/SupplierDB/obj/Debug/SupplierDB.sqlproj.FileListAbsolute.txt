@@ -1,0 +1,10 @@
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\bin\Debug\SupplierDB.dacpac
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\bin\Debug\SupplierDB.dll
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\bin\Debug\SupplierDB.pdb
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\obj\Debug\SupplierDB.sqlproj.AssemblyReference.cache
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\obj\Debug\SupplierDB.dll
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\obj\Debug\SupplierDB.pdb
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\obj\Debug\Model.xml
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\obj\Debug\refactor.xml
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\obj\Debug\postdeploy.sql
+C:\dev\SupplierApi\src\SupplierApi\SupplierDB\obj\Debug\predeploy.sql

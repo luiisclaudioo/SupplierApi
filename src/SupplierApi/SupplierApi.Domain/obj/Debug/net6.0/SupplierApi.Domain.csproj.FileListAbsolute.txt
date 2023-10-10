@@ -1,0 +1,12 @@
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\bin\Debug\net6.0\SupplierApi.Domain.deps.json
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\bin\Debug\net6.0\SupplierApi.Domain.dll
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\bin\Debug\net6.0\SupplierApi.Domain.pdb
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\obj\Debug\net6.0\SupplierApi.Domain.csproj.AssemblyReference.cache
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\obj\Debug\net6.0\SupplierApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\obj\Debug\net6.0\SupplierApi.Domain.AssemblyInfoInputs.cache
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\obj\Debug\net6.0\SupplierApi.Domain.AssemblyInfo.cs
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\obj\Debug\net6.0\SupplierApi.Domain.csproj.CoreCompileInputs.cache
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\obj\Debug\net6.0\SupplierApi.Domain.dll
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\obj\Debug\net6.0\refint\SupplierApi.Domain.dll
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\obj\Debug\net6.0\SupplierApi.Domain.pdb
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Domain\obj\Debug\net6.0\ref\SupplierApi.Domain.dll

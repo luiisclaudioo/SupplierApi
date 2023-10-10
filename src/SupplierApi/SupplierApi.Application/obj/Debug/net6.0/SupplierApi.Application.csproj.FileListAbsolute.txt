@@ -1,0 +1,15 @@
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\bin\Debug\net6.0\SupplierApi.Application.deps.json
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\bin\Debug\net6.0\SupplierApi.Application.dll
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\bin\Debug\net6.0\SupplierApi.Application.pdb
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\bin\Debug\net6.0\SupplierApi.Domain.dll
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\bin\Debug\net6.0\SupplierApi.Domain.pdb
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\SupplierApi.Application.csproj.AssemblyReference.cache
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\SupplierApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\SupplierApi.Application.AssemblyInfoInputs.cache
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\SupplierApi.Application.AssemblyInfo.cs
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\SupplierApi.Application.csproj.CoreCompileInputs.cache
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\SupplierApi.Application.csproj.CopyComplete
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\SupplierApi.Application.dll
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\refint\SupplierApi.Application.dll
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\SupplierApi.Application.pdb
+C:\dev\SupplierApi\src\SupplierApi\SupplierApi.Application\obj\Debug\net6.0\ref\SupplierApi.Application.dll
